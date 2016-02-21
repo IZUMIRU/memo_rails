@@ -1,0 +1,13 @@
+current directory: /Users/IZUMI/memo_rails/vendor/bundle/gems/json-1.8.3/ext/json
+/Users/IZUMI/.rbenv/versions/2.2.4/bin/ruby -r ./siteconf20160216-36595-1emhpk4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/IZUMI/memo_rails/vendor/bundle/gems/json-1.8.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/IZUMI/memo_rails/vendor/bundle/gems/json-1.8.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/IZUMI/memo_rails/vendor/bundle/gems/json-1.8.3/ext/json
+make "DESTDIR=" install
